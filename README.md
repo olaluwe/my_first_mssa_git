@@ -1,3 +1,3 @@
 # my git learning
 
-This is git on steriod
+This is git on steroid
