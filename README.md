@@ -1,1 +1,3 @@
-my git learning
+# my git learning
+
+This is git on steriod
